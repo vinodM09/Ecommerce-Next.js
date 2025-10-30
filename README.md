@@ -26,7 +26,7 @@ See the code and live website using following resources:
 You can check out [Github Repository]() - your feedback and contributions are welcome!
 
 ## Project Live Link (Vercel)
-
+https://ecommerce-next-js-black.vercel.app/
 
 ## Explaination
 This e-commerce project utilizes a Next.js (App Router) architecture with React Server Components (RSC) and Client Components. Pages are designed with specific rendering strategies (SSR, SSG/ISR, or CSR) based on their functionality, interactivity, and data needs.
